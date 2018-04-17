@@ -1,0 +1,14 @@
+spring:
+  thymeleaf:
+    prefix: classpath:/templates/
+  profiles:
+    active: dev
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://127.0.0.1:3306/hjdb
+#    username: root
+#    password: 123456
+#  jpa:
+#    hibernate:
+#      ddl-auto: updates
+#    show-sql: true
